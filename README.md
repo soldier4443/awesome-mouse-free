@@ -12,7 +12,15 @@ A curated list of tools for setting up mouse-free environment.
 - [oh my zsh](https://github.com/robbyrussell/oh-my-zsh/) - framework for managing zsh configurations.
 - [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - Cool, popular theme for zsh with Powerline fonts.
 
+
+
+##  Tips
+
+- [Use Typora from terminal](https://support.typora.io/Use-Typora-From-Shell-or-cmd/)
+- [Use chrome from terminal](https://support.typora.io/Use-Typora-From-Shell-or-cmd/)
+
+
+
 ## Media
 
 - [Talk on going mouseless with Vim, Tmux and Hotkeys](https://www.youtube.com/watch?v=E-ZbrtoSuzw) - Awesome talk about how to use vim and tmux to set up mouse-free environment.
-
